@@ -1,0 +1,8 @@
+{
+  "$schema": "./schemas/package.schema.json",
+  "name": "project-nextjs-tailwind1",
+  "configuration": {},
+  "deployments": [],
+  "template": "yarn-pnp-monorepo",
+  "templateVersion": "0.1.0"
+}
