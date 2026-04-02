@@ -2674,13 +2674,13 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["@goldstack/template-nextjs", [\
-      ["npm:0.5.99", {\
-        "packageLocation": "./.yarn/cache/@goldstack-template-nextjs-npm-0.5.99-f94d4c1a9c-8621dc53b9.zip/node_modules/@goldstack/template-nextjs/",\
+      ["npm:0.5.100", {\
+        "packageLocation": "./.yarn/cache/@goldstack-template-nextjs-npm-0.5.100-99835aff23-c04ceecbfc.zip/node_modules/@goldstack/template-nextjs/",\
         "packageDependencies": [\
           ["@goldstack/infra", "npm:0.4.40"],\
           ["@goldstack/infra-aws", "npm:0.4.61"],\
-          ["@goldstack/template-nextjs", "npm:0.5.99"],\
-          ["@goldstack/template-static-website-aws", "npm:0.5.86"],\
+          ["@goldstack/template-nextjs", "npm:0.5.100"],\
+          ["@goldstack/template-static-website-aws", "npm:0.5.87"],\
           ["@goldstack/utils-aws-cli", "npm:0.4.62"],\
           ["@goldstack/utils-aws-lambda", "npm:0.3.74"],\
           ["@goldstack/utils-cli", "npm:0.3.31"],\
@@ -2700,12 +2700,12 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["@goldstack/template-static-website-aws", [\
-      ["npm:0.5.86", {\
-        "packageLocation": "./.yarn/cache/@goldstack-template-static-website-aws-npm-0.5.86-2f660d96d7-b570070d3e.zip/node_modules/@goldstack/template-static-website-aws/",\
+      ["npm:0.5.87", {\
+        "packageLocation": "./.yarn/cache/@goldstack-template-static-website-aws-npm-0.5.87-e62224952a-5126486749.zip/node_modules/@goldstack/template-static-website-aws/",\
         "packageDependencies": [\
           ["@goldstack/infra", "npm:0.4.40"],\
           ["@goldstack/infra-aws", "npm:0.4.61"],\
-          ["@goldstack/template-static-website-aws", "npm:0.5.86"],\
+          ["@goldstack/template-static-website-aws", "npm:0.5.87"],\
           ["@goldstack/utils-cli", "npm:0.3.31"],\
           ["@goldstack/utils-config", "npm:0.4.40"],\
           ["@goldstack/utils-log", "npm:0.3.33"],\
@@ -2715,7 +2715,7 @@ const RAW_RUNTIME_STATE =
           ["@goldstack/utils-sh", "npm:0.5.38"],\
           ["@goldstack/utils-template", "npm:0.4.41"],\
           ["@goldstack/utils-terraform", "npm:0.4.77"],\
-          ["@goldstack/utils-terraform-aws", "npm:0.4.81"],\
+          ["@goldstack/utils-terraform-aws", "npm:0.4.82"],\
           ["source-map-support", "npm:0.5.21"],\
           ["yargs", "npm:17.7.2"]\
         ],\
@@ -2886,8 +2886,8 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["@goldstack/utils-terraform-aws", [\
-      ["npm:0.4.81", {\
-        "packageLocation": "./.yarn/cache/@goldstack-utils-terraform-aws-npm-0.4.81-ef149c4acf-a21d334b26.zip/node_modules/@goldstack/utils-terraform-aws/",\
+      ["npm:0.4.82", {\
+        "packageLocation": "./.yarn/cache/@goldstack-utils-terraform-aws-npm-0.4.82-b58ed4a232-4270d99464.zip/node_modules/@goldstack/utils-terraform-aws/",\
         "packageDependencies": [\
           ["@aws-sdk/client-dynamodb", "npm:3.1004.0"],\
           ["@aws-sdk/client-s3", "npm:3.1004.0"],\
@@ -2899,7 +2899,7 @@ const RAW_RUNTIME_STATE =
           ["@goldstack/utils-package", "npm:0.4.42"],\
           ["@goldstack/utils-sh", "npm:0.5.38"],\
           ["@goldstack/utils-terraform", "npm:0.4.77"],\
-          ["@goldstack/utils-terraform-aws", "npm:0.4.81"]\
+          ["@goldstack/utils-terraform-aws", "npm:0.4.82"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -5626,7 +5626,7 @@ const RAW_RUNTIME_STATE =
       ["workspace:packages/app-nextjs-tailwind-1", {\
         "packageLocation": "./packages/app-nextjs-tailwind-1/",\
         "packageDependencies": [\
-          ["@goldstack/template-nextjs", "npm:0.5.99"],\
+          ["@goldstack/template-nextjs", "npm:0.5.100"],\
           ["@goldstack/utils-sh", "npm:0.5.38"],\
           ["@swc/core", "virtual:a6b57a63701a5104aae27e0f243154f845547219374616b2f76a9cef6061ec862e7a0684c8728827c1e7864a173e2abea9270008508ed43f1bb2fa037ed69450#npm:1.15.8"],\
           ["@swc/jest", "virtual:a6b57a63701a5104aae27e0f243154f845547219374616b2f76a9cef6061ec862e7a0684c8728827c1e7864a173e2abea9270008508ed43f1bb2fa037ed69450#npm:0.2.39"],\
